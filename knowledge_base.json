@@ -1,0 +1,19 @@
+{
+    "price": "The AWTOS system costs $499 and includes installation and the first year of monitoring",
+    "installation": "Plumbing services must be arranged by the policyholder (use Thumbtack.com if needed). Install on the cold-water line connected to your hot water heater.Must install inside the home (not weather/water resistant). Requires a nearby electrical outlet and strong 2.4 GHz Wi-Fi. .",
+    "support": "You can reach AWTOS support at support@awtos.info.",
+    "warranty": "One-year warranty with a 30-day money-back guarantee.",
+    "AWTOS": " AWTOS (Automated Water Turn-Off System)—a smart device that prevents costly water damage by detecting leaks and automatically shutting off your home’s water supply.",
+    "AWTOS App": "1. Download & Sign-Up / Login: Tap Sign Up and enter a valid email to receive the validation link. Enter the validation code sent via email, then create a password with at least six letters or numbers. If you forget your password, tap Forgot Password or \"create a new profile. Be sure to allow Location and Notification permissions when prompted.",
+"2. Device Pairing Options: By default, the device will be in pairing mode (indicated by a slow flash). If it isn’t, press the reset button for six seconds.":
+"Bluetooth (Suggested): Enable Bluetooth on your phone, open the AWTOS app, and allow it to auto-search for devices. Tap Add and select your device type.",
+"EZ Mode: Press the reset button until the device flashes slowly, then follow the in-app tips to complete setup.":
+"3. Final Steps: Tap the “+” icon, choose Add Device, and select the device type (AW75WV02 or AW100WV02). Follow the on-screen instructions to complete pairing.",
+"4. App Account (Family Sharing): Open the AWTOS app and go to Home Management. If no home exists, create one and give it a name. Assign rooms and ensure your phone’s Location setting is ON.\n":5.0, "Manage Permissions":
+ "On Android: Hold the app icon → App Info → Permissions → switch permissions ON.",
+  "On iOS: Go to Settings → Privacy & Security → AWTOS, and adjust access as needed.":
+"6. Add Members: Tap Add Member, enter the person’s name, region (USA), and email. The invited member should download the app, accept the invitation, and enable permissions. Sharing is complete once the invitation is accepted.",
+  "AWTOS Support Number": "AWTOS Support: (888) 508-5930",
+  "Contact Information": " Support Contacts: AWTOS Support: (888) 508-5930 | Support@AWTOS.info \nTroubleshooting | Order AWTOS System | Shipping Information\nOrion180 Policy Support: (866) 590-3550 | Support@Orion180.com ",
+  "Plumber": "Plumber Services: Use Thumbtack.com for licensed, reviewed options"
+}
