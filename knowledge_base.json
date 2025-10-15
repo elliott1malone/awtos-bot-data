@@ -1,19 +1,29 @@
 {
-    "price": "The AWTOS system costs $499 and includes installation and the first year of monitoring",
-    "installation": "Plumbing services must be arranged by the policyholder (use Thumbtack.com if needed). Install on the cold-water line connected to your hot water heater.Must install inside the home (not weather/water resistant). Requires a nearby electrical outlet and strong 2.4 GHz Wi-Fi. .",
-    "support": "You can reach AWTOS support at support@awtos.info.",
-    "warranty": "One-year warranty with a 30-day money-back guarantee.",
-    "AWTOS": " AWTOS (Automated Water Turn-Off System)—a smart device that prevents costly water damage by detecting leaks and automatically shutting off your home’s water supply.",
-    "AWTOS App": "1. Download & Sign-Up / Login: Tap Sign Up and enter a valid email to receive the validation link. Enter the validation code sent via email, then create a password with at least six letters or numbers. If you forget your password, tap Forgot Password or \"create a new profile. Be sure to allow Location and Notification permissions when prompted.",
-"2. Device Pairing Options: By default, the device will be in pairing mode (indicated by a slow flash). If it isn’t, press the reset button for six seconds.":
-"Bluetooth (Suggested): Enable Bluetooth on your phone, open the AWTOS app, and allow it to auto-search for devices. Tap Add and select your device type.",
-"EZ Mode: Press the reset button until the device flashes slowly, then follow the in-app tips to complete setup.":
-"3. Final Steps: Tap the “+” icon, choose Add Device, and select the device type (AW75WV02 or AW100WV02). Follow the on-screen instructions to complete pairing.",
-"4. App Account (Family Sharing): Open the AWTOS app and go to Home Management. If no home exists, create one and give it a name. Assign rooms and ensure your phone’s Location setting is ON.\n":5.0, "Manage Permissions":
- "On Android: Hold the app icon → App Info → Permissions → switch permissions ON.",
-  "On iOS: Go to Settings → Privacy & Security → AWTOS, and adjust access as needed.":
-"6. Add Members: Tap Add Member, enter the person’s name, region (USA), and email. The invited member should download the app, accept the invitation, and enable permissions. Sharing is complete once the invitation is accepted.",
-  "AWTOS Support Number": "AWTOS Support: (888) 508-5930",
-  "Contact Information": " Support Contacts: AWTOS Support: (888) 508-5930 | Support@AWTOS.info \nTroubleshooting | Order AWTOS System | Shipping Information\nOrion180 Policy Support: (866) 590-3550 | Support@Orion180.com ",
-  "Plumber": "Plumber Services: Use Thumbtack.com for licensed, reviewed options"
+  "price": "The AWTOS system costs $499 and includes installation and the first year of monitoring.",
+  "installation": "Plumbing services must be arranged by the policyholder (use Thumbtack.com if needed). Install on the cold-water line connected to your hot water heater. Must install inside the home (not weather/water resistant). Requires a nearby electrical outlet and strong 2.4 GHz Wi-Fi.",
+  "support": "You can reach AWTOS support at support@awtos.info.",
+  "warranty": "One-year warranty with a 30-day money-back guarantee.",
+  "AWTOS": "AWTOS (Automated Water Turn-Off System) — a smart device that prevents costly water damage by detecting leaks and automatically shutting off your home’s water supply.",
+  "AWTOS App": {
+    "1. Download & Sign-Up / Login": "Tap Sign Up and enter a valid email to receive the validation link. Enter the validation code sent via email, then create a password with at least six letters or numbers. If you forget your password, tap 'Forgot Password' or 'Create a New Profile.' Be sure to allow Location and Notification permissions when prompted.",
+    "2. Device Pairing Options": {
+      "Default Pairing Mode": "By default, the device will be in pairing mode (indicated by a slow flash). If it isn’t, press the reset button for six seconds.",
+      "Bluetooth (Suggested)": "Enable Bluetooth on your phone, open the AWTOS app, and allow it to auto-search for devices. Tap Add and select your device type.",
+      "EZ Mode": "Press the reset button until the device flashes slowly, then follow the in-app tips to complete setup."
+    },
+    "3. Final Steps": "Tap the '+' icon, choose Add Device, and select the device type (AW75WV02 or AW100WV02). Follow the on-screen instructions to complete pairing.",
+    "4. App Account (Family Sharing)": "Open the AWTOS app and go to Home Management. If no home exists, create one and give it a name. Assign rooms and ensure your phone’s Location setting is ON.",
+    "5. Manage Permissions": {
+      "Android": "Hold the app icon → App Info → Permissions → switch permissions ON.",
+      "iOS": "Go to Settings → Privacy & Security → AWTOS, and adjust access as needed."
+    },
+    "6. Add Members": "Tap Add Member, enter the person’s name, region (USA), and email. The invited member should download the app, accept the invitation, and enable permissions. Sharing is complete once the invitation is accepted."
+  },
+  "AWTOS Support Number": "(888) 508-5930",
+  "Contact Information": "Support Contacts: AWTOS Support: (888) 508-5930 | support@awtos.info | Troubleshooting | Order AWTOS System | Shipping Information | Orion180 Policy Support: (866) 590-3550 | support@orion180.com",
+  "Plumber": "Use Thumbtack.com for licensed, reviewed plumbing options.",
+  "Measure Water Pipe or Cold Water Pipe": "Step-by-Step Instructions:\n\n1. Measure the Outside Diameter (OD): Place the tape measure across the end of the pipe (edge to edge). Record the distance in inches or millimeters. 👉 This is the Outside Diameter (OD).\n\n💡 If you can’t access the pipe end, wrap a string once around the pipe, mark where it overlaps, measure the length of the string, then divide by 3.14 (π) to find the diameter.\n\n2. Identify the Pipe Type: Determine if your pipe is metal (iron, copper, steel) or plastic (PVC, CPVC, PEX). The type matters because pipe sizes are labeled differently depending on the material.\n\n3. Use a Pipe Size Chart: Match your Outside Diameter (OD) to a nominal pipe size on a chart for your pipe material.\nExample:\n- If OD = 1.315\", that’s 1\" nominal PVC pipe.\n- If OD = 0.84\", that’s ½\" nominal PVC pipe.\n\n4. (Optional) Measure Inside Diameter (ID): If the pipe is open, you can also measure inside edge to inside edge. This helps confirm your result, especially for metal pipes where wall thickness varies.\n\n✅ Quick Example: You measure across a PVC pipe and get 1.05 inches. Look at a PVC size chart → that’s a ¾-inch nominal pipe.",
+  "Policy": "Device must be installed within 45 days of the effective policy date. Refunds: Allow 15 days for processing plus an additional 15 days for refund (average 20 days). If not installed, policy discounts will not apply, and your water damage sublimit will remain unchanged.",
+  "Verbiage Cancellation": "We sincerely apologize for any inconvenience you may have experienced with the AWTOS System — whether related to installation, cost, or the amount of work required. Your satisfaction is very important to us, and we are committed to listening to our customers and making ongoing improvements. We’re working on innovations and updates to ensure our systems are more convenient, reliable, and beneficial for everyone. Your feedback helps us move closer to that goal, and we truly appreciate the trust you’ve placed in us.",
+  "Verbiage for Competitors": "The AWTOS System by Orion180 stands out in the smart water protection market for its practicality, affordability, and unique insurance integration that ensures customers receive full value — not just a discount.\n\nKey Talking Points:\n\n- Compact and Efficient Design: AWTOS is under a foot long, making it easy to install in tight spaces. Its compact build doesn’t compromise performance or reliability.\n\n- Professional-Grade Compatibility: Adapter-ready for any licensed plumber, the system was engineered for straightforward installation without requiring specialized fittings or brand-specific components.\n\n- Exceptional Value: Offered at a fraction of the cost of other automatic shut-off systems, AWTOS provides advanced protection without the premium price tag.\n\n- Built for Real Homes: While designed for indoor installation only, AWTOS is made to deliver lasting performance where it matters most — inside the home, protecting plumbing at its source.\n\n- True Coverage Advantage: With Orion180, homeowners don’t just receive a discount for installing the device — they gain 100% coverage on water damage protection through their policy.\n\n- Continuous Monitoring: AWTOS provides live monitoring, ensuring your system is always active, responsive, and giving you the full value of your investment.\n\n- Ownership that Lasts: Once installed, the device is entirely yours — no rental fees, no returns, and no ongoing hardware costs. You own the protection outright.\n\nTone Summary:\n\nThis phrasing presents AWTOS and Orion180 as:\n- Trustworthy (focusing on reliability and coverage)\n- Forward-thinking (smart technology with live monitoring)\n- Customer-first (affordable, straightforward, and high-value)"
 }
